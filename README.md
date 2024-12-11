@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @youma64
-- I’m interested in C and C#
+- I’m interested in C and C#, python
 - ⚡ Fun fact: I never finished every project I started :(
-
+- currently in college
